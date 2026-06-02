@@ -36,7 +36,7 @@ version = 1.0.0
 
 # (list) Application requirements
 # comma separated e.g. requirements = sqlite3,kivy
-requirements = python3,kivy==2.2.1,kivymd==1.1.1,plyer,apscheduler,matplotlib
+requirements = python3,kivy,kivymd,plyer,apscheduler
 
 # (str) Custom source folders for requirements
 #requirements.source.kivy = ../kivy
